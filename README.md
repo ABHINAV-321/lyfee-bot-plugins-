@@ -1,5 +1,5 @@
-# lyfee-bot-plugins-
-```sudo : https://gist.github.com/lyfe00011/c9b86f8327ca781160fbad2f4d0fbd66/raw/
+#### plugins here
+sudo : https://gist.github.com/lyfe00011/c9b86f8327ca781160fbad2f4d0fbd66/raw/
 
 audio : https://gist.github.com/lyfe00011/f14e2c4738966288e66288dae7a84a7c/raw/
 
@@ -165,4 +165,3 @@ ipack : https://gist.github.com/aashin123/a77870f73cf2972d4a302fc00871825b/raw
 
 scat : https://gist.github.com/Ndroidff/3b6ecc3a6d8ae1534a327d710077b629/raw
 
-```
